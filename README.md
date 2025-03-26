@@ -32,3 +32,4 @@ SECOT is an **IoT security demonstration project** designed to highlight the cri
 ✅ Demonstrate **real-world attack scenarios** and their impact.  
 ✅ Teach **practical defensive strategies** for securing IoT systems.  
 
+![alt text](image.png)
